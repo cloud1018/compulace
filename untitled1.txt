@@ -1,0 +1,11 @@
+
+---cpu--- ---under bar---
+<table width="1920px" cellpadding="0px" cellspacing="0px" border="0px"> <tr> <td style="padding:35px 10px 00px 10px; background:url(down.png); background-repeat:no-repeat;" width="1920px" height="20px" valign="top" align="laft" 
+><span style="color:#ffffff; font-weight:1000; font-size:15px; font-family:맑은 고딕; letter-spacing:0px; line-height:1.6;">Copyright 2020. project_a(임시) all rights reserved.
+	</table>
+	
+	<table width="1920px" cellpadding="0px" cellspacing="0px" border="0px"> <tr> <td style="padding:10px 10px 00px 0px; background:url(down.png); background-repeat:no-repeat;" width="1920px" height="80px" valign="top" align="laft" 
+><span style="color:#ffffff; font-weight:1000; font-size:15px; font-family:맑은 고딕; letter-spacing:0px; line-height:1.6;">
+		
+		<a href="https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg" target="blank" align="laft" style="color:#ffffff; fant-weight:700; font-size:16px; margin-left: 20px; font-family:밁은 고딕">제작도움: 조코딩 유튜브 채널</a>
+	</table>
